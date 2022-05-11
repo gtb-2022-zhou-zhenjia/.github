@@ -9,7 +9,7 @@
 🌈 Please help me with the GTB courses! I don't have software development experience before.
 
 👩‍💻 I have wrote some python and R scripts to process the data. Maybe can help you do know my current level. 
-Here is the [repos](https://github.com/lifeodyssey?tab=repositories)
+Here are the [repos](https://github.com/lifeodyssey?tab=repositories)
 
 
 🍿 Fun facts - I love Jay Chou and Japanese animation!
